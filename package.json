@@ -1,0 +1,14 @@
+{
+  "name": "knip-require-repro",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.ts",
+  "scripts": {
+    "knip": "knip"
+  },
+  "devDependencies": {
+    "@types/node": "24.10.1",
+    "knip": "6.47.0",
+    "typescript": "5.9.3"
+  }
+}
